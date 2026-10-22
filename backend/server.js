@@ -97,7 +97,14 @@ const gitRepositorios = [{
   nome: "projeto salgado",
   descricao: "esse site é podre, só estou usando ele para testar a estrutura html desse site",
   siteLink : "https://cristianjuniorpena.github.io/projeto-salgad-o/"
-}]
+},
+{
+  link: "https://github.com/cristianjuniorpena/ProjectPySide6",
+  nome: "Projeto PySide6",
+  descricao: "um projeto criado com pyside6 com conexão mysqlWorkbanch para registrar empresas",
+  siteLink: ''
+}
+]
 
 const frases = [
   "A IA acelera, mas o entendimento guia.",
